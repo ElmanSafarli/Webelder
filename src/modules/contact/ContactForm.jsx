@@ -189,7 +189,7 @@ const StyledWrapper = styled.div`
   @media (max-width: 640px) {
     .contact-form {
       color: var(--white);
-      padding: 40px 0;
+      padding: 0;
     }
     .contact-form h2 {
       font-size: 26px;

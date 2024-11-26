@@ -2,13 +2,15 @@ import React from "react";
 import styled from "styled-components";
 
 // Components
-import { Expertise } from "../../widgets";
+import { Expertise, FAQSection, Testimonials } from "../../widgets";
 import { ContactForm } from "../../modules";
 
 const Services = () => {
   return (
     <>
       <StyledWrapper>
+        <Testimonials />
+        <FAQSection />
         <Expertise />
         <ContactForm />
       </StyledWrapper>

@@ -50,6 +50,7 @@ const StyledWrapper = styled.div`
     padding: 44px 36px;
     transition: 0.3s all;
     margin-bottom: 64px;
+    margin-top: 128px;
   }
   .service-expertise .content p {
     font-weight: 500;
@@ -108,7 +109,8 @@ const StyledWrapper = styled.div`
     }
     .service-expertise {
       border-radius: 25px;
-      margin-bottom: 50px;
+      padding: 30px 20px;
+      margin: 50px 0;
     }
     .service-expertise .span {
       font-size: 14px;
