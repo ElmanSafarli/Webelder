@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--black);
+  overflow-x: hidden;
+  margin: auto !important;
+  max-width: 1920px;
+}
+
+:root {
+  --black: #060606;
+  --white: #fff;
+  --dark_grey: #1A1A1A;
+  --grey: #808383;
+  --load_bg: #d9d9d9;
+  --medium-gray: #727272;
+  --load-gray: #d9d9d9;
+
+  --raleway: "Raleway", sans-serif;
+  --poppins: "Poppins", sans-serif;
+}
+
+.bg-zinc-800 {
+  background-color: var(--dark_grey) !important;
+}
