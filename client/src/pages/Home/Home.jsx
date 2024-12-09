@@ -74,7 +74,7 @@ const Home = () => {
         <HomeAboutCubs />
         <div className="about-content py-[94px] z-10 block relative mx-4 sm:mx-24">
           <h1>
-            Delivering exceptional services through
+            Delivering exceptional services through{" "}
             <span>pioneering ideas</span> that stand out from the rest
           </h1>
           <hr className="rounded-[1px] h-[2px] bg-[#808383] my-[24px] sm:my-[48px]" />

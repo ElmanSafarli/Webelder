@@ -94,8 +94,6 @@ const FAQSection = () => {
   );
 };
 
-export default FAQSection;
-
 // Styled Components
 const FAQWrapper = styled.div`
   color: var(--white);
@@ -198,3 +196,5 @@ const FAQWrapper = styled.div`
     }
   }
 `;
+
+export default FAQSection;

@@ -3,8 +3,7 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 
 // Components
-import Home from "../../pages/Home/Home";
-import Services from "../../pages/Services/Services";
+import { Home, Services } from "../../pages";
 
 const Navigate = () => {
   return (
