@@ -119,10 +119,6 @@
     width: 100%;
 }
 
-.services-items {
-    margin-top: 56px;
-}
-
 .services-items .service-left .service-name {
     padding: 38px 98px;
     background: transparent;
@@ -401,7 +397,7 @@ footer .footer-links .footer-link ul li a {
     }
 
     .services-items .service-left .service-name {
-        padding: 38px 40px;
+        padding: 20px 30px;
     }
 
     .services-items .service-left .service-name:hover .content {
